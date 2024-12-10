@@ -1,0 +1,13 @@
+.btn-action {
+  background-color: blueviolet;
+  color: white;
+  padding: 20px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px blueviolet;
+  transition: 0.5s;
+}
+
+.btn-action:hover {
+  background-color: rgb(220, 43, 226);
+  box-shadow: 0 0 10px rgb(220, 43, 226);
+}

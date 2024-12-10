@@ -1,0 +1,21 @@
+.footer {
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding 25px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 50px;
+  letter-spacing: 5px;
+}
+
+.footer p {
+  color: #501d89;
+}
+
+.footer a:hover {
+  color: rgb(220, 43, 226);
+}
